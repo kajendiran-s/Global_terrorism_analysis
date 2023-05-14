@@ -1,7 +1,5 @@
 # Global_terrorism_analysis
 
-My explorations are,
-
 1. Count of Target's Death on Year wise 
 
 2. Death of Target by Top 10 Groups.
